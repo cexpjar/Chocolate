@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260510235233QLGFPH</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260510235233V8IEW9</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿QUÉ ES?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alejandro Nieto de Porres</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>A través, de un alimento tan cotidiano en nuestra alimentación, vamos a indagar en el origen del mismo, de manera motivadora e innovadora, para que de manera lúdica nuestro alumnado conozca las propiedades del chocolate, sus beneficios dentro de una alimentación saludable y los usos que le podemos dar.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778446556488</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp095ts0-dve5lea9c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROYECTO ¿Cuál prefieres?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROYECTO ¿Cuál prefieres?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-dve5lea9c</odePageId>
+      <odeBlockId>block-mp095ts0-trt5iooyh</odeBlockId>
+      <blockName>¡Negro, blanco, con leche, con almedras! ¿y a ti, cómo te gusta?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-dve5lea9c</odePageId>
+          <odeBlockId>block-mp095ts0-trt5iooyh</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts0-eiz8k09jr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p></p>
+<p></p>
+<p>¡Mirad a este chico!</p>
+<p>Necesita nuestra ayuda, ya que quiere pintar una casita con un material especial: chocolate... ¿eso se puede hacer?</p>
+<p>Pero primero deberán encontrar por el aula, este material que hemos escondido.</p>
+<p>Dialogaremos en asamblea sobre el chocolate, sus tipos, formas de comer, utilizar, dónde encontrarlo...</p>
+<p>A partir de esta motivación, vamos a conocer las ideas previas de nuestro alumnado: ¿Qué saben? y ¿Qué quieren saber?</p>
+<p><video width="600" height="400" style="display: block; margin-left: auto; margin-right: auto;" controls="controls" class="mediaelement">
+<source src="{{context_path}}/content/resources/video_1.mp4" type="video/mp4" /></video></p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p></p>\n<p></p>\n<p>¡Mirad a este chico!</p>\n<p>Necesita nuestra ayuda, ya que quiere pintar una casita con un material especial: chocolate... ¿eso se puede hacer?</p>\n<p>Pero primero deberán encontrar por el aula, este material que hemos escondido.</p>\n<p>Dialogaremos en asamblea sobre el chocolate, sus tipos, formas de comer, utilizar, dónde encontrarlo...</p>\n<p>A partir de esta motivación, vamos a conocer las ideas previas de nuestro alumnado: ¿Qué saben? y ¿Qué quieren saber?</p>\n<p><video width=\"600\" height=\"400\" style=\"display: block; margin-left: auto; margin-right: auto;\" controls=\"controls\" class=\"mediaelement\">\n<source src=\"{{context_path}}/content/resources/video_1.mp4\" type=\"video/mp4\" /></video></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-dve5lea9c</odePageId>
+      <odeBlockId>block-mp095ts0-l3hx6fl33</odeBlockId>
+      <blockName>¡¡Chocolate para todos!!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-dve5lea9c</odePageId>
+          <odeBlockId>block-mp095ts0-l3hx6fl33</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts0-m8oo9t6cp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_19.41.02.png" width="826" height="826" alt="infografía" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_19.41.02.png\" width=\"826\" height=\"826\" alt=\"infografía\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp095ts0-s0qo1m4l8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Arrancamos nuestro trabajo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Arrancamos nuestro trabajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-s0qo1m4l8</odePageId>
+      <odeBlockId>block-mp095ts0-felgxq3of</odeBlockId>
+      <blockName>Línea Temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-s0qo1m4l8</odePageId>
+          <odeBlockId>block-mp095ts0-felgxq3of</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts0-5zms1z9hf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Antes de empezar, debéis conocer la temporalización, con qué medios vamos a trabajar y qué vamos a evaluar.</p>
+<p><img src="{{context_path}}/content/resources/LINEA_TEMPORAL.jpg" alt="Nos situamos en el tiempo" width="800" height="2000" style="display: block; margin-left: auto; margin-right: auto;" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Antes de empezar, debéis conocer la temporalización, con qué medios vamos a trabajar y qué vamos a evaluar.</p>\n<p><img src=\"{{context_path}}/content/resources/LINEA_TEMPORAL.jpg\" alt=\"Nos situamos en el tiempo\" width=\"800\" height=\"2000\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-s0qo1m4l8</odePageId>
+      <odeBlockId>block-mp095ts0-zhj6984sp</odeBlockId>
+      <blockName>TIC´s que utilizaremos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-s0qo1m4l8</odePageId>
+          <odeBlockId>block-mp095ts0-zhj6984sp</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts0-hh7ymo6cd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Herramientas tics que se utilizarán para desarrollas estas actividades, serán las siguientes:</p>
+<p>- Canva: para la edición de carteles o fotos.</p>
+<p>-Código qr: lo utilizaremos para poder escanear un código QR donde accederemos a un vídeo explicativo.</p>
+<p>-Chatterpix: Para recrear con dibujos el cuento de Hansel y Gretel. Grabaremos las voces de los alumnos/as. Cuando vean que sus vocecitas salen de los dibujos y con sus propias producciones les encanta.</p>
+<p>- Vidnoz: para elaborar microvídeos donde nos dejen mensajes.</p>
+<p>-Gennially: para crear actividades interactivas.</p>
+<p>Estas actividades se llevarán a cabo en pequeño grupo (2-4 niños/as) y de forma dirigida por el maestro tutor o apoyo. Para que se puedan adaptar estas actividades a las necesidades y posibilidades del alumnado de esta etapa.</p>
+<p>Para evaluar este proyecto, tendremos en cuenta:</p>
+<p><img src="{{context_path}}/content/resources/Rubricas.jpg" alt="Rúbrica" width="2000" height="1414" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/Insignia.jpg" alt="Insignias" width="2000" height="1414" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Herramientas tics que se utilizarán para desarrollas estas actividades, serán las siguientes:</p>\n<p>- Canva: para la edición de carteles o fotos.</p>\n<p>-Código qr: lo utilizaremos para poder escanear un código QR donde accederemos a un vídeo explicativo.</p>\n<p>-Chatterpix: Para recrear con dibujos el cuento de Hansel y Gretel. Grabaremos las voces de los alumnos/as. Cuando vean que sus vocecitas salen de los dibujos y con sus propias producciones les encanta.</p>\n<p>- Vidnoz: para elaborar microvídeos donde nos dejen mensajes.</p>\n<p>-Gennially: para crear actividades interactivas.</p>\n<p>Estas actividades se llevarán a cabo en pequeño grupo (2-4 niños/as) y de forma dirigida por el maestro tutor o apoyo. Para que se puedan adaptar estas actividades a las necesidades y posibilidades del alumnado de esta etapa.</p>\n<p>Para evaluar este proyecto, tendremos en cuenta:</p>\n<p><img src=\"{{context_path}}/content/resources/Rubricas.jpg\" alt=\"Rúbrica\" width=\"2000\" height=\"1414\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Insignia.jpg\" alt=\"Insignias\" width=\"2000\" height=\"1414\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp095ts0-apxgbukei</odePageId>
+  <odeParentPageId>page-mp095ts0-s0qo1m4l8</odeParentPageId>
+  <pageName>Descubrimos la historia del chocolate</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descubrimos la historia del chocolate</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-apxgbukei</odePageId>
+      <odeBlockId>block-mp095ts1-x9kk22i1y</odeBlockId>
+      <blockName>Leyendas Aztecas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-apxgbukei</odePageId>
+          <odeBlockId>block-mp095ts1-x9kk22i1y</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-siecpogg7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/qr-code.png" alt="Escanea este Qr" width="1155" height="1155" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp095ts1-siecpogg7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/qr-code.png\" alt=\"Escanea este Qr\" width=\"1155\" height=\"1155\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-apxgbukei</odePageId>
+      <odeBlockId>block-mp095ts1-ljdh5khah</odeBlockId>
+      <blockName>Interactuamos </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-apxgbukei</odePageId>
+          <odeBlockId>block-mp095ts1-ljdh5khah</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-slvulzzyu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Hola peques, os dejo este código Qr, sólo tenemos que coger las tablets para leer el código, debéis estar muy atentos.</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Mostrar retroalimentación" /></div><div class="feedback js-feedback js-hidden"><p><span style="font-family: 'Encode Sans', ​Arial, Helvetica, sans-serif; font-size: 16.8px;">Ya sabéis quienes son los Aztecas y que descubrieron. Ahora somos nosotros los que tenemos que descubrir muchas cosas sobre el cacao y el chocolate. Para ello nos convertiremos en aztecas. Haced un collar con macarrones siguiendo una serie de tres colores, además colorear las plumas que encontraréis en el rincón de plástica y haceros un penacho. Cuando lo llevéis a casa decirle a vuestras familias que os haga una foto y la suba al classroom de nuestra clase.</span></p></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Hola peques, os dejo este código Qr, sólo tenemos que coger las tablets para leer el código, debéis estar muy atentos.</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbackbutton\" value=\"Mostrar retroalimentación\" /></div><div class=\"feedback js-feedback js-hidden\"><p><span style=\"font-family: 'Encode Sans', ​Arial, Helvetica, sans-serif; font-size: 16.8px;\">Ya sabéis quienes son los Aztecas y que descubrieron. Ahora somos nosotros los que tenemos que descubrir muchas cosas sobre el cacao y el chocolate. Para ello nos convertiremos en aztecas. Haced un collar con macarrones siguiendo una serie de tres colores, además colorear las plumas que encontraréis en el rincón de plástica y haceros un penacho. Cuando lo llevéis a casa decirle a vuestras familias que os haga una foto y la suba al classroom de nuestra clase.</span></p></div>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp095ts0-hzyuxkna2</odePageId>
+  <odeParentPageId>page-mp095ts0-apxgbukei</odeParentPageId>
+  <pageName>Un poco de chocolate</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Un poco de chocolate</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-hzyuxkna2</odePageId>
+      <odeBlockId>block-mp095ts1-w2bs1rhv6</odeBlockId>
+      <blockName>¿Preparad@ para hacer piruletas de chocolote?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-hzyuxkna2</odePageId>
+          <odeBlockId>block-mp095ts1-w2bs1rhv6</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-mxzh9qkbx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Cada día vamos aprendiendo alguna cosa nueva sobre el chocolate, por ello, pincha en el siguiente vídeo y te enseñará todas las cosas que se pueden hacer con el chocolate.</p>
+<p><img src="{{context_path}}/content/resources/CCBYNCSA.png" alt="" width="100" height="35" /></p>
+<p style="text-align: center;"><iframe width="560" height="314" src="https://www.youtube.com/embed/9i5yQhCJFn0"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Cada día vamos aprendiendo alguna cosa nueva sobre el chocolate, por ello, pincha en el siguiente vídeo y te enseñará todas las cosas que se pueden hacer con el chocolate.</p>\n<p><img src=\"{{context_path}}/content/resources/CCBYNCSA.png\" alt=\"\" width=\"100\" height=\"35\" /></p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/9i5yQhCJFn0\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp095ts0-cvfkkxj79</odePageId>
+  <odeParentPageId>page-mp095ts0-hzyuxkna2</odeParentPageId>
+  <pageName>Movemos nuestro cuerpo</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Movemos nuestro cuerpo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-cvfkkxj79</odePageId>
+      <odeBlockId>block-mp095ts1-vftroxo88</odeBlockId>
+      <blockName>Una clase de música muy especial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-cvfkkxj79</odePageId>
+          <odeBlockId>block-mp095ts1-vftroxo88</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-fz2vkgwom</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Escuchamos atentos/as, bailamos e intentamos aprender estas canciones.</p>
+<p>Después, en durante en una sesión de educación física las vamos a escenificar con los pasos y ritmos que nos va marcando.</p>
+<p><a href="https://padlet.com/cexpjar/proyecto-chocolate-ini3gx41edfnxcg" title="¡Picha aquí para  saber más!">¡Picha aquí para saber más!</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp095ts1-fz2vkgwom","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Escuchamos atentos/as, bailamos e intentamos aprender estas canciones.</p>\n<p>Después, en durante en una sesión de educación física las vamos a escenificar con los pasos y ritmos que nos va marcando.</p>\n<p><a href=\"https://padlet.com/cexpjar/proyecto-chocolate-ini3gx41edfnxcg\" title=\"¡Picha aquí para  saber más!\">¡Picha aquí para saber más!</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-cvfkkxj79</odePageId>
+      <odeBlockId>block-mp095ts1-pgm57tr11</odeBlockId>
+      <blockName>¡Vaya ritmo!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-cvfkkxj79</odePageId>
+          <odeBlockId>block-mp095ts1-pgm57tr11</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-fl26krzi6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>¿Seremos capaces de seguir este juego musical y corporal?</p>
+<p>Primero lo haremos de manera individual, después con un compi, finalmente, en gran grupo.</p>
+<p><img src="{{context_path}}/content/resources/CCBYNCSA.png" alt="" width="100" height="35" /> By PequeñoPez</p>
+<p style="text-align: center;"><iframe width="400" height="200" src="https://www.youtube.com/embed/H-XH79VBFjY"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>¿Seremos capaces de seguir este juego musical y corporal?</p>\n<p>Primero lo haremos de manera individual, después con un compi, finalmente, en gran grupo.</p>\n<p><img src=\"{{context_path}}/content/resources/CCBYNCSA.png\" alt=\"\" width=\"100\" height=\"35\" /> By PequeñoPez</p>\n<p style=\"text-align: center;\"><iframe width=\"400\" height=\"200\" src=\"https://www.youtube.com/embed/H-XH79VBFjY\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-cvfkkxj79</odePageId>
+      <odeBlockId>block-mp095ts1-c1bcglcw4</odeBlockId>
+      <blockName>¡A bailar!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-cvfkkxj79</odePageId>
+          <odeBlockId>block-mp095ts1-c1bcglcw4</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-h7ska9hpx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Nos movemos por la clase mientras visualizamos el siguiente vídeo:</p>
+<p><img src="{{context_path}}/content/resources/CCBYNCSA.png" alt="" width="91" height="32" /> By LooLoo</p>
+<p style="text-align: center;"><iframe width="400" height="200" src="https://www.youtube.com/embed/H5Da2nX-yDk"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Nos movemos por la clase mientras visualizamos el siguiente vídeo:</p>\n<p><img src=\"{{context_path}}/content/resources/CCBYNCSA.png\" alt=\"\" width=\"91\" height=\"32\" /> By LooLoo</p>\n<p style=\"text-align: center;\"><iframe width=\"400\" height=\"200\" src=\"https://www.youtube.com/embed/H5Da2nX-yDk\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp095ts0-1nrge6pwb</odePageId>
+  <odeParentPageId>page-mp095ts0-cvfkkxj79</odeParentPageId>
+  <pageName>Saber más</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Saber más</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-1nrge6pwb</odePageId>
+      <odeBlockId>block-mp095ts1-jwoviycp2</odeBlockId>
+      <blockName>Curiosidades del chocolate</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-1nrge6pwb</odePageId>
+          <odeBlockId>block-mp095ts1-jwoviycp2</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-lkctbid8u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: center;"><span style="font-size: 24pt;">¿A qué no sabías ...?</span></p>
+<p style="text-align: center;"><span style="font-size: 24pt;"><iframe width="800" height="600" src="{{context_path}}/content/resources/El_secreto_del_cacao_(1).pdf"></iframe><br /></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 24pt;\">¿A qué no sabías ...?</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 24pt;\"><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/El_secreto_del_cacao_(1).pdf\"></iframe><br /></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp095ts0-jqe0n5nul</odePageId>
+  <odeParentPageId>page-mp095ts0-1nrge6pwb</odeParentPageId>
+  <pageName>Contamos el cuento de Hansel y Gretel</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contamos el cuento de Hansel y Gretel</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-jqe0n5nul</odePageId>
+      <odeBlockId>block-mp095ts1-qdx9m9euz</odeBlockId>
+      <blockName>¿Conocéis el siguiente cuento?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-jqe0n5nul</odePageId>
+          <odeBlockId>block-mp095ts1-qdx9m9euz</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-o0dplhbo1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Se titula Hansel y Gretel y la casita de chocolate.</p>
+<p style="text-align: center;"><iframe width="400" height="400" src="https://www.youtube.com/embed/JZGPUgpdK8o"></iframe></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Se titula Hansel y Gretel y la casita de chocolate.</p>\n<p style=\"text-align: center;\"><iframe width=\"400\" height=\"400\" src=\"https://www.youtube.com/embed/JZGPUgpdK8o\"></iframe></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-jqe0n5nul</odePageId>
+      <odeBlockId>block-mp095ts1-bt5hqp7pf</odeBlockId>
+      <blockName>Cartelería</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-jqe0n5nul</odePageId>
+          <odeBlockId>block-mp095ts1-bt5hqp7pf</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-8e57d3m75</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>A través del siguiente cuento, vamos a crear nuestra propia cartelería del cuento propuesto.</p>
+<p>Montaremos unos talleres internivelares con ayuda de las familias, donde trabajaremos el cuento de Hansel y Gretel, haremos bombones (aprovechando el día que hicimos los talleres), haremos la casita de chocolate con alimentos y pintaremos con chocolate. Para ello, necesitamos unos carteles que los niños irán elaborando en el siguiente enlace de canva:</p>
+<p>https://www.canva.com/design/DAGjDWKmEZw/Q8Clqe_jq2Twx3kxdDHwwA/edit</p>
+<p></p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>A través del siguiente cuento, vamos a crear nuestra propia cartelería del cuento propuesto.</p>\n<p>Montaremos unos talleres internivelares con ayuda de las familias, donde trabajaremos el cuento de Hansel y Gretel, haremos bombones (aprovechando el día que hicimos los talleres), haremos la casita de chocolate con alimentos y pintaremos con chocolate. Para ello, necesitamos unos carteles que los niños irán elaborando en el siguiente enlace de canva:</p>\n<p>https://www.canva.com/design/DAGjDWKmEZw/Q8Clqe_jq2Twx3kxdDHwwA/edit</p>\n<p></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-jqe0n5nul</odePageId>
+      <odeBlockId>block-mp095ts1-944252xj3</odeBlockId>
+      <blockName>Escucha y elige la correcta</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-jqe0n5nul</odePageId>
+          <odeBlockId>block-mp095ts1-944252xj3</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-c5fgc2a0p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Elige la respuesta correcta: </p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Elige la respuesta correcta: </p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-jqe0n5nul</odePageId>
+      <odeBlockId>block-mp095ts1-cyh0ex11p</odeBlockId>
+      <blockName>Eleccion multiple</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-jqe0n5nul</odePageId>
+          <odeBlockId>block-mp095ts1-cyh0ex11p</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-7l1e9qbpz</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties><![CDATA[{"questionsData":[{"activityType":"selection","selectionType":"single","baseText":"<p>¿CÓMO SE LLAMA EL NIÑO DEL CUENTO?</p>","answers":[[false,"PEPE"],[false,"JUAN"],[true,"HANSEL"],[false,"NO LO SÉ"]],"hint":"<p><img src=\"https://www.salvat.com/35228-salvat_antigua/hansel-y-gretel.jpg\" jsaction=\"\" class=\"sFlh5c FyHeAf iPVvYb\" alt=\"Audiocuentos nº 5 - Hansel y Gretel\" jsname=\"kn3ccd\" width=\"136\" height=\"176\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"},{"activityType":"selection","selectionType":"single","baseText":"<p>¿QUIÉN SE COMIÓ EL PAN DEL SUELO?</p>","answers":[[false,"HORMIGAS"],[true,"PÁJAROS"],[false,"GRETEL"],[false,"GUSANOS"]],"hint":"<p style=\"text-align: center;\"><img id=\"dimg_zbYTaNPBHPeGkdUP-OTKsQo_391\" src=\"resources/img0.jpeg\" class=\"YQ4gaf\" height=\"183\" width=\"275\" alt=\"Migas\" data-csiid=\"zbYTaNPBHPeGkdUP-OTKsQo_34\" data-atf=\"1\" /></p>"},{"activityType":"selection","selectionType":"single","baseText":"<p>¿DE QUÉ ESTABA HECHA LA CASITA?</p>","answers":[[false,"DE LADRILLO"],[false,"DE MADERA"],[false,"DE PLASTILINA"],[true,"DE GOMINOLAS"]],"hint":"<p style=\"text-align: center;\"><img src=\"https://cdn.pixabay.com/photo/2020/10/25/17/40/hansel-5685067_1280.jpg\" jsaction=\"\" class=\"sFlh5c FyHeAf iPVvYb\" alt=\"Hansel Gretel Pan De Jengibre - Imagen gratis en Pixabay\" jsname=\"kn3ccd\" width=\"222\" height=\"226\" /></p>"},{"activityType":"selection","selectionType":"single","baseText":"<p>¿DÓNDE SE ENCERRÓ LA BRUJA?</p>","answers":[[false,"EN UNA CHIMENEA"],[true,"EN UNA JAULA"],[false,"EN UN CUARTO OSCURO","<p>EN UN COBERTIZO</p>"]]}]}]]></jsonProperties>
+          <odeComponentsOrder>3</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp095ts0-8wz5fjmn6</odePageId>
+  <odeParentPageId>page-mp095ts0-jqe0n5nul</odeParentPageId>
+  <pageName>ACABANDO</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACABANDO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-8wz5fjmn6</odePageId>
+      <odeBlockId>block-mp095ts1-1sdi5y3nl</odeBlockId>
+      <blockName>¿JUGAMOS? </blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-8wz5fjmn6</odePageId>
+          <odeBlockId>block-mp095ts1-1sdi5y3nl</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-vk1tm78tb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Chicos y chicas, aquí tenéis un juego que os permitirá conocer las diferentes formas en que se presenta el chocolate. ¡Vamos a por ello!</p>
+<p><a href="https://view.genially.com/67e199833ea65fefad5234d6/interactive-content-encuentra-la-pareja">https://view.genially.com/67e199833ea65fefad5234d6/interactive-content-encuentra-la-pareja</a></p>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Chicos y chicas, aquí tenéis un juego que os permitirá conocer las diferentes formas en que se presenta el chocolate. ¡Vamos a por ello!</p>\n<p><a href=\"https://view.genially.com/67e199833ea65fefad5234d6/interactive-content-encuentra-la-pareja\">https://view.genially.com/67e199833ea65fefad5234d6/interactive-content-encuentra-la-pareja</a></p>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-8wz5fjmn6</odePageId>
+      <odeBlockId>block-mp095ts1-citxql3wb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-8wz5fjmn6</odePageId>
+          <odeBlockId>block-mp095ts1-citxql3wb</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-vjz1rl4wq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-8wz5fjmn6</odePageId>
+      <odeBlockId>block-mp095ts1-4zo9k9gc4</odeBlockId>
+      <blockName>AHORCADO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-8wz5fjmn6</odePageId>
+          <odeBlockId>block-mp095ts1-4zo9k9gc4</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-ftq1jdpdw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Vamos a jugar al ahorcado: </p>
+<p><a href="https://es.educaplay.com/recursos-educativos/23127778-fill_in_the_blanks_the_sweet_world_of_chocolate.html">https://es.educaplay.com/recursos-educativos/23127778-fill_in_the_blanks_the_sweet_world_of_chocolate.html</a></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Vamos a jugar al ahorcado: </p>\n<p><a href=\"https://es.educaplay.com/recursos-educativos/23127778-fill_in_the_blanks_the_sweet_world_of_chocolate.html\">https://es.educaplay.com/recursos-educativos/23127778-fill_in_the_blanks_the_sweet_world_of_chocolate.html</a></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp095ts0-spg1ar5hq</odePageId>
+  <odeParentPageId>page-mp095ts0-8wz5fjmn6</odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-spg1ar5hq</odePageId>
+      <odeBlockId>block-mp095ts1-knhkippwz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-spg1ar5hq</odePageId>
+          <odeBlockId>block-mp095ts1-knhkippwz</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-06l5sxryn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Aquí os dejamos la Guía Didáctica del proyecto:</p>
+<p><img src="{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_20.14.47.png" alt="" width="1137" height="485" style="display: block; margin-left: auto; margin-right: auto;" /><img src="{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_20.15.29.png" alt="" width="1138" height="634" style="display: block; margin-left: auto; margin-right: auto;" /><img src="{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_20.15.59.png" alt="" width="1134" height="627" style="display: block; margin-left: auto; margin-right: auto;" /><img src="{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_20.16.31.png" alt="" width="1137" height="632" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_20.17.09.png" alt="" width="1144" height="139" /><br /><br /><br /><br /><br /><br /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Aquí os dejamos la Guía Didáctica del proyecto:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_20.14.47.png\" alt=\"\" width=\"1137\" height=\"485\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><img src=\"{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_20.15.29.png\" alt=\"\" width=\"1138\" height=\"634\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><img src=\"{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_20.15.59.png\" alt=\"\" width=\"1134\" height=\"627\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><img src=\"{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_20.16.31.png\" alt=\"\" width=\"1137\" height=\"632\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Captura_de_pantalla_2025-05-04_20.17.09.png\" alt=\"\" width=\"1144\" height=\"139\" /><br /><br /><br /><br /><br /><br /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-spg1ar5hq</odePageId>
+      <odeBlockId>block-mp095ts1-ph0y1r9fv</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-spg1ar5hq</odePageId>
+          <odeBlockId>block-mp095ts1-ph0y1r9fv</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-immg09fz7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Además, de la Guía Didáctica, adjuntamos otro elemento curricular tan importante como en la evaluación:</p>
+<p><strong>DIANAS DE EVALUACIÓN</strong></p>
+<p>Con este instrumento de evaluación pretendo comprobar si los niños/as son capaces de participar de forma colaborativa en la evaluación del proyecto de investigación.</p>
+<p>La diana es un método de evaluación participativa, rápido y muy visual, que nos permite conocer la opinión de nuestros alumnos sobre diversos aspectos de nuestra actividad.     </p>
+<p>Esperamos obtener buenos resultados y que haya buena predisposición por parte del alumnado.</p>
+<p>Las posibles variables que pueden surgir pueden ser que los niños/as tengan dificultad a la hora de realizar la tarea o no sepan cómo trabajar en grupo. Debido a que tienen tan solo 6 años, estaré en todo momento supervisando y orientando la tarea. Intentaré fomentar un buen clima para que puedan resolver los problemas que surjan entre ellos. Animaré a que expongan sus ideas, escuchen a sus compañeros/as y lleguen a un consenso.</p>
+<p><img src="{{context_path}}/content/resources/Diana_de_Autoevaluacion_Alumno.jpg" alt="Diana de evaluación alumnado" width="566" height="400" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>INSIGNIAS DE SUPER EXPLORADOR (RÚBRICA CON CANVA)</strong></p>
+<p>Con este instrumento de evaluación pretendo motivar al alumnado para que se esfuerce en realizar bien las distintas tareas y al mismo tiempo reconocer el logro adquirido de cada uno.</p>
+<p>Cada vez que participen en una tarea, cada alumno/a adquiere su insignia en forma de medalla. Aunque al ser pequeños las insignias se la llevarán todos y todas. Pero intentaremos en todo momento animar al alumnado para que consigan realizar las actividades con su mayor esfuerzo.</p>
+<p>Las posibles variables que pueden surgir es que los/as niños/as no pudieran hacer solo las actividades propuestas. Debido a las edades con las que trabajo. Yo les guiaré en las actividades en todo momento. También motivaré y valoraré positivamente los logros de cada niño y ofreceré una intervención más individualizada a aquel/aquella que lo necesite.</p>
+<p><br /></p>
+<p><span style="font-size: 1.05em;"><img src="{{context_path}}/content/resources/1.jpg" width="754" height="533" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></span></p>
+<p><span style="font-size: 1.05em;"></span></p>
+<p><span style="font-size: 1.05em;"><img src="{{context_path}}/content/resources/2.jpg" width="797" height="563" alt="" style="display: block; margin-left: auto; margin-right: auto;" />  </span></p>
+<p><span style="font-size: 1.05em;">La evaluación se ha convertido en uno de los puntos más importantes de la programación. Gracias a la evaluación los docentes podemos valorar los conocimientos, actitudes y el rendimiento de nuestros alumnos/as. De igual modo, los alumnos/as pueden saber el grado de consecución de los logros propuestos, competencias que nos hemos marcado desarrollar y las habilidades trabajadas.</span></p>
+<p>Si atendemos a la Orden 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, la evaluación será global, continua y formativa. Además, debemos tener en cuenta los tipos de evaluación que existen según el momento en el que la hagamos: inicial, procesual y final.</p>
+<p>La técnica principal para evaluar en esta etapa es la observación directa y sistemática. En cuanto a los criterios de evaluación, son diversos, tales como las escalas de observación, anecdotarios, listas de control, etc.</p>
+<p style="text-align: center;"><iframe width="400" height="300" src="{{context_path}}/content/resources/lista_de_cotejo_EVALUACION_CHOCOLATE.pdf"></iframe><br /><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp095ts1-immg09fz7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Además, de la Guía Didáctica, adjuntamos otro elemento curricular tan importante como en la evaluación:</p>\n<p><strong>DIANAS DE EVALUACIÓN</strong></p>\n<p>Con este instrumento de evaluación pretendo comprobar si los niños/as son capaces de participar de forma colaborativa en la evaluación del proyecto de investigación.</p>\n<p>La diana es un método de evaluación participativa, rápido y muy visual, que nos permite conocer la opinión de nuestros alumnos sobre diversos aspectos de nuestra actividad.     </p>\n<p>Esperamos obtener buenos resultados y que haya buena predisposición por parte del alumnado.</p>\n<p>Las posibles variables que pueden surgir pueden ser que los niños/as tengan dificultad a la hora de realizar la tarea o no sepan cómo trabajar en grupo. Debido a que tienen tan solo 6 años, estaré en todo momento supervisando y orientando la tarea. Intentaré fomentar un buen clima para que puedan resolver los problemas que surjan entre ellos. Animaré a que expongan sus ideas, escuchen a sus compañeros/as y lleguen a un consenso.</p>\n<p><img src=\"{{context_path}}/content/resources/Diana_de_Autoevaluacion_Alumno.jpg\" alt=\"Diana de evaluación alumnado\" width=\"566\" height=\"400\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>INSIGNIAS DE SUPER EXPLORADOR (RÚBRICA CON CANVA)</strong></p>\n<p>Con este instrumento de evaluación pretendo motivar al alumnado para que se esfuerce en realizar bien las distintas tareas y al mismo tiempo reconocer el logro adquirido de cada uno.</p>\n<p>Cada vez que participen en una tarea, cada alumno/a adquiere su insignia en forma de medalla. Aunque al ser pequeños las insignias se la llevarán todos y todas. Pero intentaremos en todo momento animar al alumnado para que consigan realizar las actividades con su mayor esfuerzo.</p>\n<p>Las posibles variables que pueden surgir es que los/as niños/as no pudieran hacer solo las actividades propuestas. Debido a las edades con las que trabajo. Yo les guiaré en las actividades en todo momento. También motivaré y valoraré positivamente los logros de cada niño y ofreceré una intervención más individualizada a aquel/aquella que lo necesite.</p>\n<p><br /></p>\n<p><span style=\"font-size: 1.05em;\"><img src=\"{{context_path}}/content/resources/1.jpg\" width=\"754\" height=\"533\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p><span style=\"font-size: 1.05em;\"></span></p>\n<p><span style=\"font-size: 1.05em;\"><img src=\"{{context_path}}/content/resources/2.jpg\" width=\"797\" height=\"563\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" />  </span></p>\n<p><span style=\"font-size: 1.05em;\">La evaluación se ha convertido en uno de los puntos más importantes de la programación. Gracias a la evaluación los docentes podemos valorar los conocimientos, actitudes y el rendimiento de nuestros alumnos/as. De igual modo, los alumnos/as pueden saber el grado de consecución de los logros propuestos, competencias que nos hemos marcado desarrollar y las habilidades trabajadas.</span></p>\n<p>Si atendemos a la Orden 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, la evaluación será global, continua y formativa. Además, debemos tener en cuenta los tipos de evaluación que existen según el momento en el que la hagamos: inicial, procesual y final.</p>\n<p>La técnica principal para evaluar en esta etapa es la observación directa y sistemática. En cuanto a los criterios de evaluación, son diversos, tales como las escalas de observación, anecdotarios, listas de control, etc.</p>\n<p style=\"text-align: center;\"><iframe width=\"400\" height=\"300\" src=\"{{context_path}}/content/resources/lista_de_cotejo_EVALUACION_CHOCOLATE.pdf\"></iframe><br /><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp095ts0-r4cezpcn3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp095ts0-r4cezpcn3</odePageId>
+      <odeBlockId>block-mp095ts1-t06piotdh</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp095ts0-r4cezpcn3</odePageId>
+          <odeBlockId>block-mp095ts1-t06piotdh</odeBlockId>
+          <odeIdeviceId>idevice-mp095ts1-xkd7mkrkt</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>¿QUÉ ES?</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>A través, de un alimento tan cotidiano en nuestra alimentación, vamos a indagar en el origen del mismo, de manera motivadora e innovadora, para que de manera lúdica nuestro alumnado conozca las propiedades del chocolate, sus beneficios dentro de una alimentación saludable y los usos que le podemos dar.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Carmen Expósito Jaramillo.</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
